@@ -1,22 +1,5 @@
-Calculator by Lincoln Cash Burnett the blockchain god
-follow me on IG: @linkl0n 
-hml on telegram for business inquiries: linkl0n
----
-<img src="Logotype primary.png" width="60%" height="60%" />
-
-Created with *create-react-app*.
-
-Install
----
-
-`npm install`
-
-
-
-Usage
----
-
-`npm start`
-
-
-fwm 
+# Calculator
+By Lincoln Cash Burnett, the Blockchain God.  
+Deployed: https://lincoln-calc-ikifa53ks-lincoln-burnetts-projects-36c35b50.vercel.app
+Follow my IG @linkl0n 
+Telegram @linkl0n for business inquiries
